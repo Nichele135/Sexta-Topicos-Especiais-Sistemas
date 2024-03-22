@@ -1,0 +1,7 @@
+dotnet new sln --output API
+
+cd API
+
+dotnet new web (ou console) --name API
+
+dotnet sln add API
