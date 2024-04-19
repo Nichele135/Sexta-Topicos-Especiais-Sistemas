@@ -64,19 +64,4 @@ app.MapDelete("/api/produto/delete/{id}", (String id) =>
 }
 );
 
-app.MapPut("/api/produto/alterar/{id}", (string id, Produto produto, string nome, double valor) =>
-{
-            foreach (Produto produtoCadastrado in produtos)
-    {
-        if(produtoCadastrado.Id == id)
-        {
-            produtos.(produtoCadastrado);
-            //Retornar produto encontrado / codigo de bem sucedido é 200.
-            return Results.Ok(produtoCadastrado);
-        }
-    }
-})
-
-
-
 app.Run();

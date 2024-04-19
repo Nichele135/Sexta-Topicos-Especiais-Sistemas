@@ -1,0 +1,15 @@
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\bin\Debug\net8.0\ConexaoBD.exe
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\bin\Debug\net8.0\ConexaoBD.deps.json
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\bin\Debug\net8.0\ConexaoBD.runtimeconfig.json
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\bin\Debug\net8.0\ConexaoBD.dll
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\bin\Debug\net8.0\ConexaoBD.pdb
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.GeneratedMSBuildEditorConfig.editorconfig
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.AssemblyInfoInputs.cache
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.AssemblyInfo.cs
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.csproj.CoreCompileInputs.cache
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.sourcelink.json
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.dll
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\refint\ConexaoBD.dll
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.pdb
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ConexaoBD.genruntimeconfig.cache
+C:\andresharp\Sexta-Topicos-Especiais-Sistemas\19.04\ConexaoBD\obj\Debug\net8.0\ref\ConexaoBD.dll
