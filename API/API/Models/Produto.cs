@@ -1,17 +1,16 @@
-namespace API.Models;
+using System.ComponentModel.DataAnnotations;
 
-// esse record foi para gravar os nomes e descriçao dos celulares no program.cs;
-//record Produto(string Nome, string Descricao);
+namespace API.Models;
 
 public class Produto
 {
-    //Contrutores
+    //Construtores 
     public Produto()
     {
         Id = Guid.NewGuid().ToString();
         CriadoEm = DateTime.Now;
     }
-    
+
     public Produto(string nome, string descricao, double valor)
     {
         Nome = nome;
@@ -21,39 +20,34 @@ public class Produto
         CriadoEm = DateTime.Now;
     }
 
-    
-    
-    // //Atributos == caracteristicas, propriedades
-    
-    public string Id {get;set;}
-    public string Nome {get;set;} // ---> Esse comando é oq faz o get e set em C#
-    public string Descricao {get;set;}
-    public double Valor {get;set;}
-    public DateTime CriadoEm {get;set;}
-    public int Quantidade {get; set;}
+    //Características - Atributos e propriedades
+    //Validação - Data Annotations em C#
+    public string? Id { get; set; }
 
-    
+    [Required(ErrorMessage = "Campo Obrigatório!")]
+    public string? Nome { get; set; } //--> Comando de get e set em C#
 
-    
-    
-    // private String nome;
+    [MinLength(3, ErrorMessage = "Mínimo de 3 caracteres!")]
+    [MaxLength(10, ErrorMessage = "Máximo de 10 caracteres!")]
+    public string? Descricao { get; set; }
 
+    [Range(1, 1000, ErrorMessage = "Valor entre 1 e 1000!")]
+    public double Valor { get; set; }
+    public DateTime CriadoEm { get; set; }
+    public int Quantidade { get; set; }
 
-    // public void setNome(String nome)
+    // private string nome;
+
+    // public void setNome(string nome)
     // {
     //     this.nome = nome;
     // }
 
-    // public String getNome()
+    // public string getNome()
     // {
     //     return this.nome;
     // }
 
-    //tudo isso acima e usado em JAVA.
-
-    
-
-    
-
 }
 
+//record Produto(string Nome, string Descricao);
