@@ -1,5 +1,6 @@
 import React from 'react';
-import Caixa from './Caixa';
+import Caixa from './Soma';
+import Soma from './Soma';
 
 //1- O nome do componente OBRIGATORIAMENTE deve comecar com a primeira letra em maiusculo
 //2- O componente DEVE ser uma funçao do JS ou TS
@@ -8,7 +9,7 @@ import Caixa from './Caixa';
 function App() {
   return (
     <div>
-      <Caixa></Caixa>
+      <Soma></Soma>
     </div>
   );
 }
