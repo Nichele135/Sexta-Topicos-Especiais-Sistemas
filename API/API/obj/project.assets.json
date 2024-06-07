@@ -2539,11 +2539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\andresharp\\Sexta-Topicos-Especiais-Sistemas\\API\\API\\API.csproj",
+      "projectUniqueName": "C:\\AndreC#\\Sexta-Topicos-Especiais-de-Sistemas-2024\\API\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\andresharp\\Sexta-Topicos-Especiais-Sistemas\\API\\API\\API.csproj",
+      "projectPath": "C:\\AndreC#\\Sexta-Topicos-Especiais-de-Sistemas-2024\\API\\API\\API.csproj",
       "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
-      "outputPath": "C:\\andresharp\\Sexta-Topicos-Especiais-Sistemas\\API\\API\\obj\\",
+      "outputPath": "C:\\AndreC#\\Sexta-Topicos-Especiais-de-Sistemas-2024\\API\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config"

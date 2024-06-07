@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQ0RLQjsHxTL9KPMT3wce0ZO9EKFVp5hLaa+6M/ohH8uiAgxtruxBn3S/LV9Q6eLvuRQDNAFxsEnUDlA6fMSuw==",
+  "dgSpecHash": "0ETteZd/lA32Vw3dXZX1gl5Fl/IaCRxJgJhVxnzz2qdgwAEr3EAG7dVmYxwpgKV0MJi4GNFxm51qDAgbCzMtqA==",
   "success": true,
-  "projectFilePath": "C:\\andresharp\\Sexta-Topicos-Especiais-Sistemas\\API\\API\\API.csproj",
+  "projectFilePath": "C:\\AndreC#\\Sexta-Topicos-Especiais-de-Sistemas-2024\\API\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\autologon\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\autologon\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
